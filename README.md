@@ -21,6 +21,8 @@ The shell script is expecting you to have a `.temply` directory in your `$HOME`,
 
 ### Configuration file
 
+`temply.cnf`
+
 ```bash
 TEMPLY_EDITOR=/usr/bin/code                  # if this is not set it will default to /usr/bin/vim
 OUTPUT_DIRECTORY=/home/you/notes             # if this is not set it will default to $HOME
